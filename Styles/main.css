@@ -719,9 +719,15 @@
 .form-text__input {
     width: 414px;
     height: 54px;
-    
+    padding: 2%;
     border: 0.5px solid #858585;
     border-radius: 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #858585;
 }
 
 .form__select {
@@ -740,12 +746,20 @@
 }
 
 .form-message-text__input {
+    padding: 2%;
     margin-top: 12px;
     width: 688.89px;
     height: 268px;
     border: 0.5px solid #858585;
     border-radius: 8px;
     resize: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #858585;
+
 }
 
 .message-btn {
