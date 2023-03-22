@@ -745,6 +745,7 @@
     height: 268px;
     border: 0.5px solid #858585;
     border-radius: 8px;
+    resize: none;
 }
 
 .message-btn {
